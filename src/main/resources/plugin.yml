@@ -1,0 +1,4 @@
+name: $name
+main: ru.violence.disablewritablebooks.Main
+version: $version
+api-version: '$apiVersion'
